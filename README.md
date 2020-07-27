@@ -1,4 +1,4 @@
-<p align="center">
+< align="center">
   <a href="http://lovera.maxam.now.sh/">
     <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500">
   </a>
@@ -42,6 +42,8 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 
    - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/maxam2017/`**`9842e074b8ee46aef76fd0d493bae0ed`**.
    - **TIMEZONE:** The timezone of your location, eg. `Asia/Taipei` for Taiwan, `America/New_York` for America in New York, etc.
+
+
 
 1. Go to the repo **Settings > Secrets**
 1. Add the following environment variables:
